@@ -1,0 +1,11 @@
+/* Default hidden */
+.responsive-link {
+  display: none;
+}
+
+/* Show when screen is at least 1024px (desktop mode) */
+@media (min-width: 1024px) {
+  .responsive-link {
+    display: inline-block; /* or flex, depending on your layout */
+  }
+}
