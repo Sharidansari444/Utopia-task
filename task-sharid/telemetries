@@ -1,0 +1,810 @@
+[{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c4"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757617379,
+  "data": {
+    "temperature": 21.76,
+    "humidity": 64.76,
+    "pm25": 42.48
+  },
+  "timestamp": {
+    "$date": "2025-09-11T19:02:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T19:02:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c5"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757617079,
+  "data": {
+    "temperature": 22.81,
+    "humidity": 53.77,
+    "pm25": 42.01
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:57:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:57:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c6"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757616779,
+  "data": {
+    "temperature": 20.82,
+    "humidity": 66.8,
+    "pm25": 32.81
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:52:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:52:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c7"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757616479,
+  "data": {
+    "temperature": 25.86,
+    "humidity": 42.9,
+    "pm25": 45.49
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:47:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:47:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c8"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757616179,
+  "data": {
+    "temperature": 24.39,
+    "humidity": 78.19,
+    "pm25": 47
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:42:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:42:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c9"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757615879,
+  "data": {
+    "temperature": 23.37,
+    "humidity": 66.99,
+    "pm25": 9.84
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:37:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:37:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9ca"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757615579,
+  "data": {
+    "temperature": 22.83,
+    "humidity": 59.25,
+    "pm25": 40.41
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:32:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:32:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9cb"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757615279,
+  "data": {
+    "temperature": 22.36,
+    "humidity": 55.14,
+    "pm25": 16.63
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:27:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:27:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9cc"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757614979,
+  "data": {
+    "temperature": 25.87,
+    "humidity": 43.71,
+    "pm25": 31.53
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:22:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:22:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9cd"
+  },
+  "deviceId": "device-001",
+  "uid": "device-001",
+  "firmware": "1.0.0",
+  "tts": 1757614679,
+  "data": {
+    "temperature": 20.7,
+    "humidity": 45.71,
+    "pm25": 7.15
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:17:59.747Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:17:59.747Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d2"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757617379,
+  "data": {
+    "temperature": 26.87,
+    "humidity": 57.51,
+    "pm25": 40.11
+  },
+  "timestamp": {
+    "$date": "2025-09-11T19:02:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T19:02:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d3"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757617079,
+  "data": {
+    "temperature": 27.11,
+    "humidity": 76.51,
+    "pm25": 36
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:57:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:57:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d4"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757616779,
+  "data": {
+    "temperature": 29.34,
+    "humidity": 65.06,
+    "pm25": 7.95
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:52:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:52:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d5"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757616479,
+  "data": {
+    "temperature": 26.35,
+    "humidity": 61.68,
+    "pm25": 29.49
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:47:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:47:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d6"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757616179,
+  "data": {
+    "temperature": 21.48,
+    "humidity": 44.14,
+    "pm25": 29.67
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:42:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:42:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d7"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757615879,
+  "data": {
+    "temperature": 28.79,
+    "humidity": 78.52,
+    "pm25": 27.94
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:37:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:37:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d8"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757615579,
+  "data": {
+    "temperature": 25.78,
+    "humidity": 48.73,
+    "pm25": 32.74
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:32:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:32:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d9"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757615279,
+  "data": {
+    "temperature": 22.73,
+    "humidity": 72.98,
+    "pm25": 5.84
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:27:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:27:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9da"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757614979,
+  "data": {
+    "temperature": 21.36,
+    "humidity": 41.24,
+    "pm25": 0.08
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:22:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:22:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9db"
+  },
+  "deviceId": "device-002",
+  "uid": "device-002",
+  "firmware": "1.0.0",
+  "tts": 1757614679,
+  "data": {
+    "temperature": 21.86,
+    "humidity": 66.31,
+    "pm25": 34.29
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:17:59.797Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:17:59.797Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e0"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757617379,
+  "data": {
+    "temperature": 25.9,
+    "humidity": 49.83,
+    "pm25": 5.64
+  },
+  "timestamp": {
+    "$date": "2025-09-11T19:02:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T19:02:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e1"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757617079,
+  "data": {
+    "temperature": 27.06,
+    "humidity": 73.92,
+    "pm25": 45.16
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:57:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:57:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e2"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757616779,
+  "data": {
+    "temperature": 26.62,
+    "humidity": 49.61,
+    "pm25": 43.77
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:52:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:52:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e3"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757616479,
+  "data": {
+    "temperature": 23.4,
+    "humidity": 65.02,
+    "pm25": 38.01
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:47:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:47:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e4"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757616179,
+  "data": {
+    "temperature": 21.87,
+    "humidity": 71.43,
+    "pm25": 15.73
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:42:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:42:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e5"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757615879,
+  "data": {
+    "temperature": 29.32,
+    "humidity": 72.62,
+    "pm25": 49.27
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:37:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:37:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e6"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757615579,
+  "data": {
+    "temperature": 24.63,
+    "humidity": 69.76,
+    "pm25": 28.12
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:32:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:32:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e7"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757615279,
+  "data": {
+    "temperature": 29.16,
+    "humidity": 57.64,
+    "pm25": 12.22
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:27:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:27:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e8"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757614979,
+  "data": {
+    "temperature": 24.54,
+    "humidity": 78.95,
+    "pm25": 19.86
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:22:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:22:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9e9"
+  },
+  "deviceId": "device-003",
+  "uid": "device-003",
+  "firmware": "1.0.0",
+  "tts": 1757614679,
+  "data": {
+    "temperature": 21.88,
+    "humidity": 46.25,
+    "pm25": 21.08
+  },
+  "timestamp": {
+    "$date": "2025-09-11T18:17:59.817Z"
+  },
+  "receivedAt": {
+    "$date": "2025-09-11T18:17:59.817Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.822Z"
+  }
+}]
