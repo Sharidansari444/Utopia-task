@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9c2"
+  },
+  "uid": "device-001",
+  "name": "Living Room Sensor",
+  "firmware": "unknown",
+  "isActive": true,
+  "location": "Living Room",
+  "deviceType": "environmental",
+  "lastSeen": {
+    "$date": "2025-09-11T19:02:59.741Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.743Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9d0"
+  },
+  "uid": "device-002",
+  "name": "Bedroom Sensor",
+  "firmware": "unknown",
+  "isActive": true,
+  "location": "Bedroom",
+  "deviceType": "environmental",
+  "lastSeen": {
+    "$date": "2025-09-11T19:02:59.793Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c31ce3e90ef0523d43d9de"
+  },
+  "uid": "device-003",
+  "name": "Kitchen Sensor",
+  "firmware": "unknown",
+  "isActive": true,
+  "location": "Kitchen",
+  "deviceType": "environmental",
+  "lastSeen": {
+    "$date": "2025-09-11T19:02:59.814Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T19:02:59.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T19:02:59.815Z"
+  },
+  "__v": 0
+}]
